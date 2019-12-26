@@ -1,0 +1,21 @@
+.bg-img {
+    background-image:url('https://png.pngtree.com/thumb_back/fh260/background/20190619/pngtree-leaf-vector-pattern-background-image_130690.jpg');
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.white
+{
+    background: white;
+}

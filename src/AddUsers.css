@@ -1,0 +1,22 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.card-header
+{
+    border-bottom: 0!important;
+    background: none!important;
+}
+label{
+    display:inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+  }
+main>div {
+    display: inline-block;
+}
+.invalid-feedback
+{
+    margin-top:0px!important;
+}
